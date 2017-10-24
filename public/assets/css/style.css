@@ -1,0 +1,45 @@
+body{
+	background-image: url("../images/pattern.jpg");
+
+}
+
+.jumbotron{
+	text-align: left;
+	position: relative;
+	background-color: white; 
+}
+
+.burger-header{
+	text-align: right;
+	position: relative;
+	left: -300px;
+	top: 150px;
+}
+
+
+.burger-input{
+	font-size: 18px;
+	height: 40px;
+	width: 300px;
+}
+
+li{
+	font-size: 20px;
+}
+
+button{
+	
+	font-size: 18px;
+
+}
+h4{
+	font-size : 20px;
+}
+
+.add-burger{
+
+	position: relative;
+	left: 300px;
+	top: 100px;
+}
+
