@@ -1,5 +1,6 @@
 body{
 	background-image: url("../images/pattern.jpg");
+	font-family: 'Frijole', cursive;
 
 }
 
@@ -7,6 +8,7 @@ body{
 	text-align: left;
 	position: relative;
 	background-color: white; 
+	font-family: 'Cabin Sketch', cursive;
 }
 
 .burger-header{
